@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XCYWX
-- 👀 I’m interested in watching
-- 🌱 I’m currently learning computer
-- 💞️ I’m looking to collaborate on girl
+- 👀 I’m interested in watching TV
+- 🌱 I’m currently learning computerskills
 - 📫 How to reach me 2156695521@qq.com
 
 <!---
